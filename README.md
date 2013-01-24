@@ -1,4 +1,4 @@
 RubyQuiz
 ========
 
-Solutions to some problems on RubyQuiz (www.rubyquiz.org)
+Solutions to some problems on RubyQuiz (www.rubyquiz.com)
